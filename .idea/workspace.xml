@@ -4,16 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="96630569-65ee-49eb-91f7-ae85a8d5ff95" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java-oop1.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/org/excercises/javashop/JavaShop.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/org/excercises/javashop/Product.java" afterDir="false" />
+    <list default="true" id="96630569-65ee-49eb-91f7-ae85a8d5ff95" name="Changes" comment="JavaShop">
+      <change afterPath="$PROJECT_DIR$/src/org/excercises/javaBank/Conto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/org/excercises/javaBank/JavaBank.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -30,6 +23,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "LeonardoFlammini"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/LeonardoFlammini/java-oop1.git",
+    "accountId": "bbae345f-8338-46df-a62b-929631c9e3be"
+  }
+}]]></component>
   <component name="ProjectColorInfo"><![CDATA[{
   "associatedIndex": 8
 }]]></component>
@@ -42,6 +47,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.JavaBank.executor": "Run",
     "Application.JavaShop.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
@@ -50,7 +56,20 @@
     "last_opened_file_path": "C:/Users/Leonardo/Documents/JAVA-EXP/Workspace/java-snacks"
   }
 }]]></component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.JavaBank">
+    <configuration name="JavaBank" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.excercises.javaBank.JavaBank" />
+      <module name="java-oop1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.excercises.javaBank.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="JavaShop" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="org.excercises.javashop.JavaShop" />
       <module name="java-oop1" />
@@ -66,6 +85,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.JavaBank" />
         <item itemvalue="Application.JavaShop" />
       </list>
     </recent_temporary>
@@ -79,6 +99,19 @@
       <option name="presentableId" value="Default" />
       <updated>1715947733776</updated>
     </task>
+    <task id="LOCAL-00001" summary="JavaShop">
+      <option name="closed" value="true" />
+      <created>1715951772189</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1715951772189</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="JavaShop" />
+    <option name="LAST_COMMIT_MESSAGE" value="JavaShop" />
   </component>
 </project>
